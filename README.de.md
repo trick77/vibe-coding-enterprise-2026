@@ -1,6 +1,6 @@
 # Vibe Coding trifft auf das Unternehmen — Ein Snapshot von 2026
 
-> 🎧 **[Diesen Inhalt als Podcast anhören](podcast-vibe-coding-enterprise.de.m4a)**
+> 🎬 **[Erklärvideo ansehen](explainer.de.mp4)** | 🎧 **[Als Podcast anhören](podcast-vibe-coding-enterprise.de.m4a)**
 
 **Eine radikale Vorhersage zum Organisationsdesign:** Das Ende permanenter, funktionsübergreifender Teams, ersetzt durch
 fluide, projektbasierte Zusammenstellungen aus KI-gestützten Generalisten und On-Demand Fachexperten zur Validierung.
