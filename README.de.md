@@ -33,7 +33,7 @@ verändern, wie Code geschrieben wird.
 Dieses Dokument kartiert die Governance-Lücke, die Patterns, die Praktiker entdecken, und die schwierigen
 Fragen, die Organisationen beantworten müssen, bevor sie skaliert einführen.
 
-![Vibe Coding trifft auf das Enterprise — Infografik](infographic.png)
+![Vibe Coding trifft auf das Enterprise — Infografik](infographic.de.png)
 
 ## TL;DR
 
