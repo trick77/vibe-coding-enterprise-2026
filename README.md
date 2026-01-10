@@ -139,7 +139,7 @@ Tools emerging:
 - **GitHub Spec Kit** — Templates and prompts for specification-based workflows
 - **Tessl** — Similar structured approach with a registry of 10,000+ specs
 
-However, ThoughtWorks cautions: "I'd rather review code than all these markdown files. Even with all of
+However, Britta Böckeler cautions: "I'd rather review code than all these markdown files. Even with all of
 these files and templates and prompts and workflows and checklists, I frequently saw the agent ultimately
 not follow all the instructions."
 ([Martin Fowler](https://martinfowler.com/articles/exploring-gen-ai.html))
