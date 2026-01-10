@@ -1,6 +1,6 @@
 # Vibe Coding trifft auf das Unternehmen — Ein Snapshot von 2026
 
-> 🎬 **[Erklärvideo ansehen](explainer.de.mp4)** | 🎧 **[Als Podcast anhören](podcast-vibe-coding-enterprise.de.m4a)**
+> 🎬 **[Erklärvideo ansehen](https://github.com/trick77/vibe-coding-enterprise-2026/raw/refs/heads/master/explainer.de.mp4)** | 🎧 **[Als Podcast anhören](https://github.com/trick77/vibe-coding-enterprise-2026/raw/refs/heads/master/podcast-vibe-coding-enterprise.de.m4a)**
 
 **Eine radikale Vorhersage zum Organisationsdesign:** Das Ende permanenter, funktionsübergreifender Teams, ersetzt durch
 fluide, projektbasierte Zusammenstellungen aus KI-gestützten Generalisten und On-Demand Fachexperten zur Validierung.
@@ -148,7 +148,7 @@ instructions." ([Martin Fowler](https://martinfowler.com/articles/exploring-gen-
 
 ### Die Perception vs. Reality Gap
 
-Die METR-Studie fand heraus, dass „erfahrene Entwickler auf vertrauten Repos aufgrund von Prompt/Review Overheads ~19%
+Die [METR-Studie](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) fand heraus, dass „erfahrene Entwickler auf vertrauten Repos aufgrund von Prompt/Review Overheads ~19%
 langsamer waren", obwohl Entwickler einen 20-24% Speedup wahrnahmen.
 
 „Individuelle Developer Velocity stieg, aber organisationaler Throughput nicht."

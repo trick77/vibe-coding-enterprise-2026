@@ -1,6 +1,6 @@
 # Vibe Coding Meets the Enterprise — A 2026 Snapshot
 
-> 🎬 **[Watch the explainer video](explainer.mp4)** | 🎧 **[Listen as podcast](podcast-vibe-coding-enterprise.m4a)**
+> 🎬 **[Watch the explainer video](https://github.com/trick77/vibe-coding-enterprise-2026/raw/refs/heads/master/explainer.mp4)** | 🎧 **[Listen as podcast](https://github.com/trick77/vibe-coding-enterprise-2026/raw/refs/heads/master/podcast-vibe-coding-enterprise.m4a)**
 
 **A radical organisation design prediction:** the death of permanent cross-functional teams, replaced by fluid, project-
 based assembly of AI-augmented generalists and on-demand human specialists for validation.
@@ -146,7 +146,7 @@ instructions." ([Martin Fowler](https://martinfowler.com/articles/exploring-gen-
 
 ### The Perception vs. Reality Gap
 
-METR study found "experienced devs were ~19% slower on familiar repos due to prompt/review overheads" even though
+[METR study](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/) found "experienced devs were ~19% slower on familiar repos due to prompt/review overheads" even though
 developers perceived a 20-24% speedup.
 
 "Individual developer velocity increased, but organizational throughput did not."
