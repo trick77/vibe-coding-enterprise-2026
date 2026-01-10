@@ -11,7 +11,7 @@ fluide, projektbasierte Zusammenstellungen aus KI-gestützten Generalisten und O
 
 Yegge spricht nicht von Uber-artigem Freelancing. Er beschreibt ein internes Beratungsmodell: KI erledigt die
 Basisarbeit in allen Fachbereichen, während menschliche Experten für kurze Einsätze „reserviert“ werden — man bucht
-einen Engineer für eine Woche, einen PM für ein paar Tage, einen Security-Experten für ein Review. Die Aufgabe des
+einen Engineer für eine Woche, einen PM für ein paar Tage, einen Security-Experten für eine Review. Die Aufgabe des
 Spezialisten verschiebt sich von *Arbeit erledigen* zu *KI-Arbeit validieren*. Alle werden durch KI zum Junior-
 Spezialisten in allem, aber man braucht weiterhin Seniors zur Validierung.
 
@@ -29,7 +29,7 @@ wird.
 
 ---
 
-Dieses Dokument kartiert die Governance-Lücke, die Patterns, die Praktiker entdecken, und die schwierigen Fragen, die
+Dieses Dokument umreisst die Governance-Lücke, die Patterns, die Praktiker entdecken, und die schwierigen Fragen, die
 Organisationen beantworten müssen, bevor sie skaliert einführen.
 
 ![Vibe Coding trifft auf das Enterprise — Infografik](infographic.de.png)
@@ -89,7 +89,7 @@ unbeantworteten Governance-Fragen auf der anderen.
 > genehmigte Nutzung echten Schaden anrichtet?‘
 
 
-Menschen experimentieren mit verschiedenen Ansätzen, um KI-gestützte Entwicklung zu managen:
+Es wird derzeit mit verschiedenen Ansätzen experimentiert, um KI-gestützte Entwicklung zu steuern:
 
 - **Adversarial Models** — Ein anderes Modell (oder dasselbe Modell mit anderem Prompt/Persona) das Output reviewen
   lassen. Die Theorie ist, dass Fehler nicht perfekt über Modelle korrelieren. Addy Osmani macht das: Er startet
