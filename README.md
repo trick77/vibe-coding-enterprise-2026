@@ -1,5 +1,7 @@
 # Vibe Coding Meets the Enterprise — A 2026 Snapshot
 
+> 🎧 **[Listen to this document as a podcast](podcast-vibe-coding-enterprise.m4a)**
+
 **A radical organisation design prediction:** the death of permanent cross-functional teams, replaced by
 fluid, project-based assembly of AI-augmented generalists + on-demand human specialists for validation.
 
