@@ -31,6 +31,8 @@ written.
 This document maps the governance gap, the patterns practitioners are discovering, and the hard questions
 organizations must answer before adoption at scale.
 
+![Vibe Coding Meets the Enterprise — Infographic](infographic.png)
+
 ## TL;DR
 
 Development is moving from "human writes code" to "human describes intent, AI implements." The developer
