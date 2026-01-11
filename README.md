@@ -31,7 +31,7 @@ accountability, and how to safely adopt tools that are already reshaping how cod
 This document maps the governance gap, the patterns practitioners are discovering, and the hard questions organizations
 must answer before adoption at scale.
 
-![Vibe Coding Meets the Enterprise — Infographic](infographic.png)
+![Vibe Coding Meets the Enterprise — Infographic](https://github.com/trick77/vibe-coding-enterprise-2026/raw/refs/heads/master/infographic.png)
 
 ## TL;DR
 

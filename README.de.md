@@ -32,7 +32,7 @@ wird.
 Dieses Dokument umreisst die Governance-Lücke, die Patterns, die Praktiker entdecken, und die schwierigen Fragen, die
 Organisationen beantworten müssen, bevor sie skaliert einführen.
 
-![Vibe Coding trifft auf das Enterprise — Infografik](infographic.de.png)
+![Vibe Coding trifft auf das Enterprise — Infografik](https://github.com/trick77/vibe-coding-enterprise-2026/raw/refs/heads/master/infographic.de.png)
 
 ## TL;DR
 
